@@ -70,3 +70,5 @@ How can I invite friends and colleagues to Peerlyst?
 We believe there’s strength—and knowledge—in numbers, so we've made it as easy as pie to invite colleagues. Simply click the little person with a plus sign next to your profile icon in the top right-hand corner of the page, and fill in their email address. You can use the invite text we provide or customize it any way you like. We never give email addresses to any third parties, including vendors.
 
 If you don't see answers to your questions here, feel free to contact us directly at info@peerlyst.com.
+
+Still not sure? Check it out: www.peerlyst.com
